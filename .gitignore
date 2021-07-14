@@ -1,0 +1,7 @@
+__pycache__/*.*
+tools/__pycache__/*.*
+/backup/*
+!/backup/readme
+/ibk_setting/*
+!/ibk_setting/readme
+.env
